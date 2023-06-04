@@ -1,7 +1,7 @@
 # inkプロジェクト
 
 こういう画像↓
-![https://github.com/ichikawapc/ink/blob/master/src/main/resources/sample.jpg?raw=true]()
+![https://raw.githubusercontent.com/ichikawapc/ink/master/src/main/resources/sample.jpg]()
 から下部のテキスト部分に書かれた文字列を読み取りたい。
 
 ## 使い方
