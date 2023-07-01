@@ -6,7 +6,7 @@ import java.io.File
 object Main {
   def main(args : Array[String]) = {
     println("inkプロジェクト始動...")
-    val image = openImageFile("text.jpg") //← TODO: Use sample.jpg and trim that.
+    val image = openImageFile("src\\main\\resources\\text.jpg") //← TODO: Use sample.jpg and trim that.
     val trimedImage = trimTextSpace(image)
     val text = readText(trimedImage)
     println(text)
