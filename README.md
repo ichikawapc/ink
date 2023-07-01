@@ -17,11 +17,8 @@ sbt run -- <画像ファイル名>
 * sbt
 * tesseract
 
-### Java 11 のインストール方法
-TODO:
-
-### sbt のインストール方法
-TODO:
+### Scala のインストール方法
+参考: https://www.scala-lang.org/download/
 
 ### tesseract のインストール方法
 
@@ -34,4 +31,8 @@ sudo apt install tessract-ocr
 ```console
 brew install tesseract 
 ```
+
+#### Windowsの人がtesseractをインストールする方法
+
+TODO
 
